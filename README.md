@@ -1,4 +1,4 @@
-# Assignment: Create A Multi-Service Multi-Node Web App
+Create A Multi-Service Multi-Node Web App
 
 ## Goal: create networks, volumes, and services for a web-based "cats vs. dogs" voting app
 
