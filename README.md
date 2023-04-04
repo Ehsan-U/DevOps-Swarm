@@ -1,6 +1,5 @@
-Create A Multi-Service Multi-Node Web App
+### A Multi-Service Multi-Node Web App
 
-## Goal: create networks, volumes, and services for a web-based "cats vs. dogs" voting app
 
 Here is a basic diagram of how the 5 services will work:
 
